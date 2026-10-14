@@ -3,14 +3,14 @@
   <!-- 🌟 Top Cyber Wave Animated Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,7,2&height=220&section=header&text=⚡%20MOHAMED%20ASHIK%20M%20⚡&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-  <!-- ⌨️ Glowing Single-Line Dynamic Typing Animation (No overlap / No cutoff) -->
+  <!-- ⌨️ Glowing Single-Line Dynamic Typing Animation -->
   <a href="https://github.com/MOHAMEDASHIK54">
     <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+(Java+%C2%B7+React.js)+%F0%9F%92%BB;2025+MCA+Graduate+%F0%9F%8E%93;Java+%E2%80%A2+React.js+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%9A%A1;Open+to+Relocate%3A+India+%26+Gulf+%F0%9F%8C%8D" alt="Dynamic Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- 🚀 100% Reliable Shields.io Badges (Never breaks) -->
+  <!-- 🚀 100% Reliable Shields.io Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/Degree-MCA%202025%20Graduate%20🎓-8b5cf6?style=for-the-badge" alt="Degree" />
     &nbsp;
@@ -26,11 +26,18 @@
 
 <br/>
 
-<!-- 💻 Mac Terminal Style About Me Card -->
+<!-- 💻 3D Realistic Animated Developer + Mac Terminal Card -->
 <div align="center">
   <table border="0" width="100%">
     <tr>
-      <td width="100%" valign="top">
+      <td width="30%" align="center" valign="middle">
+        <!-- 3D Realistic Animated Technologist -->
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Man%20Technologist.webp" width="200" alt="3D Animated Developer" />
+        <br/>
+        <!-- 3D Realistic Animated Rocket -->
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" width="75" alt="3D Rocket" />
+      </td>
+      <td width="70%" valign="top">
         <p align="left"><strong>🔴 🟡 🟢 &nbsp; <code>mohamed-ashik ~ developer-terminal</code></strong></p>
         <pre>
 <code>
@@ -41,7 +48,7 @@ $ cat status.json
 {
   "location": "India 🇮🇳 (open to relocate: India & Gulf)",
   "role": "Full Stack Developer, 2025 MCA Graduate",
-  "tech_stack": ["Java", "React.js", "Node.js", "MySQL", "PostgreSQL", "Figma"],
+  "tech_stack": ["HTML5", "CSS3", "JavaScript", "React.js", "Java", "Node.js", "MySQL", "PostgreSQL", "Figma"],
   "currently_building": "Portfolio sites, dashboards & real-world web apps 🚀",
   "learning": "Microservices & cloud systems",
   "superpower": "Turning complex logic into sleek, fluid UIs"
@@ -60,7 +67,7 @@ $ echo $PASSION
 
 ---
 
-### 🛠️ Tech Arsenal & Core Skills
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" width="34" align="center" /> Tech Arsenal & Core Skills
 
 <div align="center">
   <p><em>(Hover on the icons to see smooth animations!)</em></p>
@@ -73,7 +80,7 @@ $ echo $PASSION
 
 ---
 
-### 🚀 Featured Projects
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" width="34" align="center" /> Featured Projects
 
 <table width="100%">
   <tr>
@@ -104,7 +111,7 @@ $ echo $PASSION
 
 ---
 
-### 📊 Real-Time GitHub Analytics
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" width="34" align="center" /> Real-Time GitHub Analytics
 
 <div align="center">
 
