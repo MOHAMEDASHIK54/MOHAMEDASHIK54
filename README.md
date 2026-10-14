@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- 🌟 Top Cyber Wave Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,7,2&height=220&section=header&text=⚡%20MOHAMED%20ASHIK%20M%20⚡&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <!-- 🌟 Glowing Cyber Twinkling Animated Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=250&section=header&text=⚡%20MOHAMED%20ASHIK%20M%20⚡&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Building%20with%20Excellence%20%26%20Purpose&descAlignY=58&descAlign=50&descSize=18" width="100%" />
 
   <!-- ⌨️ Glowing Single-Line Dynamic Typing Animation -->
   <a href="https://github.com/MOHAMEDASHIK54">
@@ -55,7 +55,7 @@ $ cat status.json
 }
 
 $ echo $PASSION
-"Clean code, modern UI, and products people love."
+"Work with Ihsan (mastery), build with integrity, and deliver software that makes a real impact."
 </code>
         </pre>
       </td>
@@ -138,6 +138,42 @@ $ echo $PASSION
 
 ---
 
+### 🌟 Words of Real Heroes & Guiding Work Ethic
+
+<div align="center">
+
+  <!-- Dynamic Typing Quote from Real-World Heroes -->
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=18&duration=4000&pause=1800&color=F59E0B&center=true&vCenter=true&width=750&height=50&lines=%22If+you+want+to+shine+like+a+sun%2C+first+burn+like+a+sun.%22+-+Dr.+A.P.J.+Abdul+Kalam;%22Verily%2C+Allah+loves+when+you+do+any+work+with+Ihsan+(Excellence).%22;%22Work+with+integrity+and+succeed+with+dignity.%22+-+Dr.+Kalam;%22Don't+quit.+Suffer+now+and+live+the+rest+of+your+life+as+a+champion.%22+-+Muhammad+Ali" alt="Hero Quotes Animation" />
+
+  <br/>
+
+  <table border="0" width="100%">
+    <tr>
+      <td align="center" style="padding: 18px 24px;">
+        <p align="center" style="font-size: 16px; line-height: 1.6;">
+          <em>"Verily, Allah loves that when any one of you does a job, he executes it with <strong>Ihsan (إحسان)</strong> — with utmost mastery, devotion, and excellence."</em><br/>
+          <strong>— Prophet Muhammad (ﷺ)</strong>
+        </p>
+        <hr width="30%" />
+        <p align="center" style="font-size: 15px; line-height: 1.6;">
+          <em>"To succeed in your mission, you must have single-minded devotion to your goal. Dream, transform into thoughts, and execute into hard work."</em><br/>
+          <strong>— Dr. A.P.J. Abdul Kalam</strong>
+        </p>
+        <hr width="30%" />
+        <p align="center" style="font-size: 15px; line-height: 1.6;">
+          <em>"Champions are made from something they have deep inside them — a desire, a dream, a vision."</em><br/>
+          <strong>— Muhammad Ali</strong>
+        </p>
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+<br/>
+
+---
+
 ### 🌐 Connect & Collaborate
 
 <div align="center">
@@ -160,12 +196,7 @@ $ echo $PASSION
 
   <br/><br/>
 
-  <!-- Dynamic Programming Quote Card -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dynamic Quote" />
-
-  <br/><br/>
-
   <!-- 🌊 Bottom Neon Wave Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,7,2&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=100&section=footer" width="100%" />
 
 </div>
