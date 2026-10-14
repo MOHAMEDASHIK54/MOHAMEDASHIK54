@@ -1,18 +1,11 @@
 <div align="center">
 
-  <!-- 📸 Centered Profile Picture with Glowing Frame -->
-  <a href="https://github.com/MOHAMEDASHIK54">
-    <img src="https://avatars.githubusercontent.com/u/203456565?v=4" width="135" height="135" style="border-radius: 50%; border: 3px solid #38bdf8; max-width: 100%;" alt="Mohamed Ashik M" />
-  </a>
-
-  <br/><br/>
-
-  <!-- 🌟 Glowing Cyber Header Banner (Ultra Fast & Guaranteed to Load) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,11,20&height=210&section=header&text=MOHAMED%20ASHIK%20M&fontSize=38&fontColor=ffffff&fontAlignY=40" width="100%" alt="Mohamed Ashik Header" />
+  <!-- 🌟 Radiant Cyber Neon Banner with Dynamic Reveal Animation -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,35:4FACFE,70:7F00FF,100:FF007A&height=230&section=header&text=MOHAMED%20ASHIK%20M&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=scaleIn&stroke=00F2FE&strokeWidth=1" width="100%" alt="Mohamed Ashik Header" />
 
   <!-- ⌨️ Glowing Single-Line Dynamic Typing Animation -->
   <a href="https://github.com/MOHAMEDASHIK54">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+(Java+%C2%B7+React.js)+%F0%9F%92%BB;2025+MCA+Graduate+%F0%9F%8E%93;Java+%E2%80%A2+React.js+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%9A%A1;Open+to+Relocate%3A+India+%26+Gulf+%F0%9F%8C%8D" alt="Dynamic Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=2800&pause=1100&color=00F2FE&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+(Java+%C2%B7+React.js)+%F0%9F%92%BB;2025+MCA+Graduate+%F0%9F%8E%93;Java+%E2%80%A2+React.js+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%9A%A1;Open+to+Relocate%3A+India+%26+Gulf+%F0%9F%8C%8D" alt="Dynamic Typing SVG" />
   </a>
 
   <br/><br/>
@@ -213,7 +206,7 @@ $ echo $PASSION
 
   <br/><br/>
 
-  <!-- 🌊 Bottom Neon Wave Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,11,20&height=100&section=footer" width="100%" />
+  <!-- 🌊 Radiant Cyber Neon Footer Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,35:4FACFE,70:7F00FF,100:FF007A&height=110&section=footer" width="100%" />
 
 </div>
