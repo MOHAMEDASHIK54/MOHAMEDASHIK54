@@ -1,7 +1,14 @@
 <div align="center">
 
+  <!-- 📸 Centered Profile Picture with Glowing Frame -->
+  <a href="https://github.com/MOHAMEDASHIK54">
+    <img src="https://avatars.githubusercontent.com/u/203456565?v=4" width="135" height="135" style="border-radius: 50%; border: 3px solid #38bdf8; max-width: 100%;" alt="Mohamed Ashik M" />
+  </a>
+
+  <br/><br/>
+
   <!-- 🌟 Glowing Cyber Header Banner (Ultra Fast & Guaranteed to Load) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,11,20&height=220&section=header&text=MOHAMED%20ASHIK%20M&fontSize=40&fontColor=ffffff&fontAlignY=38" width="100%" alt="Mohamed Ashik Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,11,20&height=210&section=header&text=MOHAMED%20ASHIK%20M&fontSize=38&fontColor=ffffff&fontAlignY=40" width="100%" alt="Mohamed Ashik Header" />
 
   <!-- ⌨️ Glowing Single-Line Dynamic Typing Animation -->
   <a href="https://github.com/MOHAMEDASHIK54">
@@ -142,7 +149,7 @@ $ echo $PASSION
 
 <div align="center">
 
-  <!-- 💫 One-by-One Animated Quote Reveal (Types out each hero's quote one at a time) -->
+  <!-- 💫 One-by-One Animated Quote Reveal -->
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=18&duration=4200&pause=2200&color=F59E0B&center=true&vCenter=true&width=800&height=55&lines=%22Allah+loves+that+when+you+do+any+work%2C+do+it+with+Ihsan+(Excellence).%22+%E2%80%94+Prophet+Muhammad+(%EF%B7%BA);%22If+you+want+to+shine+like+a+sun%2C+first+burn+like+a+sun.%22+%E2%80%94+Dr.+A.P.J.+Abdul+Kalam;%22Don't+quit.+Live+the+rest+of+your+life+as+a+champion.%22+%E2%80%94+Muhammad+Ali;%22To+succeed%2C+have+single-minded+devotion+to+your+goal.%22+%E2%80%94+Dr.+Kalam" alt="Hero Quotes One-by-One Animation" />
 
   <br/><br/>
