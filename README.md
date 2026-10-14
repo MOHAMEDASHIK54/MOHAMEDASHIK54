@@ -12,6 +12,10 @@
 
   <!-- 🚀 100% Reliable Shields.io Badges -->
   <p align="center">
+    <a href="https://mohamedashik54.github.io/Portfolio1/" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Explore_Live_3D_Portfolio-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Live 3D Portfolio" />
+    </a>
+    <br/><br/>
     <img src="https://img.shields.io/badge/Degree-MCA%202025%20Graduate%20🎓-8b5cf6?style=for-the-badge" alt="Degree" />
     &nbsp;
     <img src="https://img.shields.io/badge/Role-Full%20Stack%20(Java%20%7C%20React)-0ea5e9?style=for-the-badge" alt="Role" />
