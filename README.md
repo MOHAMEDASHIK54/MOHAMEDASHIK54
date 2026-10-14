@@ -1,22 +1,22 @@
-## Hi there 👋
-
-<!--<div align="center">
+<div align="center">
 
   <!-- 🌟 Top Cyber Wave Animated Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,7,2&height=240&section=header&text=⚡%20MOHAMED%20ASHIK%20⚡&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,7,2&height=220&section=header&text=⚡%20MOHAMED%20ASHIK%20M%20⚡&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
-  <!-- ⌨️ Glowing Neon Typing Animation -->
+  <!-- ⌨️ Glowing Single-Line Dynamic Typing Animation (No overlap / No cutoff) -->
   <a href="https://github.com/MOHAMEDASHIK54">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=23&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=750&height=80&lines=%3C%20Full-Stack%20Developer%20%2F%3E;Building%20Mind-Blowing%20Web%20Experiences%20%F0%9F%9A%80;Turning%20Coffee%20%E2%98%95%20into%20Clean%20Code%20%E2%9A%A1;Open%20Source%20%26%20Creative%20Technologist%20%E2%9C%A8" alt="Neon Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=21&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Full+Stack+Developer+(Java+%C2%B7+React.js)+%F0%9F%92%BB;2025+MCA+Graduate+%F0%9F%8E%93;Java+%E2%80%A2+React.js+%E2%80%A2+Node.js+%E2%80%A2+PostgreSQL+%E2%9A%A1;Open+to+Relocate%3A+India+%26+Gulf+%F0%9F%8C%8D" alt="Dynamic Typing SVG" />
   </a>
 
-  <br/>
+  <br/><br/>
 
-  <!-- 🚀 Live Visitor Badge & Status Badges -->
+  <!-- 🚀 100% Reliable Shields.io Badges (Never breaks) -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=MOHAMEDASHIK54&label=Profile%20Views&color=0ea5e9&style=for-the-badge&logo=eye" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/Status-Building%20Awesome%20Stuff%20🚀-8b5cf6?style=for-the-badge" alt="Status" />
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20UI-ec4899?style=for-the-badge" alt="Focus" />
+    <img src="https://img.shields.io/badge/Degree-MCA%202025%20Graduate%20🎓-8b5cf6?style=for-the-badge" alt="Degree" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Role-Full%20Stack%20(Java%20%7C%20React)-0ea5e9?style=for-the-badge" alt="Role" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Relocate-India%20%26%20Gulf%20🌍-10b981?style=for-the-badge" alt="Relocate" />
   </p>
 
   <!-- 🎨 Animated Rainbow Divider Line -->
@@ -26,54 +26,46 @@
 
 <br/>
 
-<!-- 💻 Lofi Dev / Cyber Mascot + Terminal Bio -->
-<table border="0" align="center" width="100%">
-  <tr>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius: 12px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);" alt="Cyberpunk Dev GIF" />
-    </td>
-    <td width="60%" valign="top">
-      <h3>⚡ <code>about_me.sh</code></h3>
-      <pre>
+<!-- 💻 Mac Terminal Style About Me Card -->
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="100%" valign="top">
+        <p align="left"><strong>🔴 🟡 🟢 &nbsp; <code>mohamed-ashik ~ developer-terminal</code></strong></p>
+        <pre>
 <code>
 $ whoami
-> Mohamed Ashik [Software Craftsman & Web Innovator]
+> Mohamed Ashik M | Full Stack Developer (Java · React.js)
 
 $ cat status.json
 {
-  "location": "India 🇮🇳",
-  "role": "Full-Stack Developer",
-  "currently_building": "Next-Gen Web Platforms & Portfolios 🚀",
-  "learning": "High Performance Microservices & Cloud Systems",
-  "superpower": "Transforming complex logic into sleek, fluid UIs"
+  "location": "India 🇮🇳 (open to relocate: India & Gulf)",
+  "role": "Full Stack Developer, 2025 MCA Graduate",
+  "tech_stack": ["Java", "React.js", "Node.js", "MySQL", "PostgreSQL", "Figma"],
+  "currently_building": "Portfolio sites, dashboards & real-world web apps 🚀",
+  "learning": "Microservices & cloud systems",
+  "superpower": "Turning complex logic into sleek, fluid UIs"
 }
 
 $ echo $PASSION
-> "Clean code, futuristic aesthetics, and building products people love."
+"Clean code, modern UI, and products people love."
 </code>
-      </pre>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<div align="center">
-  <!-- 🏆 Dynamic GitHub Achievement Trophies -->
-  <h3>🏆 GitHub Achievements & Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=MOHAMEDASHIK54&theme=onedark&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=6" alt="Trophies" />
+        </pre>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
 ---
 
-### 🛠️ Animated Tech Arsenal
+### 🛠️ Tech Arsenal & Core Skills
 
 <div align="center">
   <p><em>(Hover on the icons to see smooth animations!)</em></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,nodejs,express,python,fastapi,mongodb,mysql,git,github,vscode,postman,figma,docker&perline=10" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=java,react,nodejs,express,postgres,mysql,js,tailwind,vite,html,css,figma,git,github,vscode,postman&perline=8" alt="Tech Stack Icons" />
   </a>
 </div>
 
@@ -112,31 +104,15 @@ $ echo $PASSION
 
 ---
 
-### 🐍 Contribution Grid Snake Animation
-
-<div align="center">
-  <p><em>Watch the snake eat through my GitHub contributions live!</em></p>
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
-</div>
-
-<br/>
-
----
-
 ### 📊 Real-Time GitHub Analytics
 
 <div align="center">
-
-  <!-- Interactive Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOHAMEDASHIK54&theme=react-dark&area=true&hide_border=true&custom_title=Mohamed's%20Interactive%20Contribution%20Graph" width="100%" alt="Activity Graph" />
-
-  <br/><br/>
 
   <!-- Stats & Streak Side-by-Side Cards -->
   <table border="0" align="center">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=MOHAMEDASHIK54&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=a855f7&text_color=94a3b8" height="185" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=MOHAMEDASHIK54&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=a855f7&text_color=94a3b8" height="185" alt="GitHub Stats" />
       </td>
       <td align="center">
         <img src="https://streak-stats.demolab.com/?user=MOHAMEDASHIK54&theme=radical&hide_border=true&background=0f172a&ring=38bdf8&fire=f59e0b&currStreakNum=38bdf8&sideNums=a855f7&currStreakLabel=38bdf8" height="185" alt="GitHub Streak" />
@@ -186,17 +162,3 @@ $ echo $PASSION
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,14,7,2&height=100&section=footer" width="100%" />
 
 </div>
-
-**MOHAMEDASHIK54/MOHAMEDASHIK54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
