@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- 🌟 Glowing Cyber Twinkling Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=250&section=header&text=⚡%20MOHAMED%20ASHIK%20M%20⚡&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Building%20with%20Excellence%20%26%20Purpose&descAlignY=58&descAlign=50&descSize=18" width="100%" />
+  <!-- 🌟 Glowing Cyber Header Banner (Ultra Fast & Guaranteed to Load) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,11,20&height=220&section=header&text=MOHAMED%20ASHIK%20M&fontSize=40&fontColor=ffffff&fontAlignY=38" width="100%" alt="Mohamed Ashik Header" />
 
   <!-- ⌨️ Glowing Single-Line Dynamic Typing Animation -->
   <a href="https://github.com/MOHAMEDASHIK54">
@@ -142,31 +142,41 @@ $ echo $PASSION
 
 <div align="center">
 
-  <!-- Dynamic Typing Quote from Real-World Heroes -->
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=18&duration=4000&pause=1800&color=F59E0B&center=true&vCenter=true&width=750&height=50&lines=%22If+you+want+to+shine+like+a+sun%2C+first+burn+like+a+sun.%22+-+Dr.+A.P.J.+Abdul+Kalam;%22Verily%2C+Allah+loves+when+you+do+any+work+with+Ihsan+(Excellence).%22;%22Work+with+integrity+and+succeed+with+dignity.%22+-+Dr.+Kalam;%22Don't+quit.+Suffer+now+and+live+the+rest+of+your+life+as+a+champion.%22+-+Muhammad+Ali" alt="Hero Quotes Animation" />
+  <!-- 💫 One-by-One Animated Quote Reveal (Types out each hero's quote one at a time) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=18&duration=4200&pause=2200&color=F59E0B&center=true&vCenter=true&width=800&height=55&lines=%22Allah+loves+that+when+you+do+any+work%2C+do+it+with+Ihsan+(Excellence).%22+%E2%80%94+Prophet+Muhammad+(%EF%B7%BA);%22If+you+want+to+shine+like+a+sun%2C+first+burn+like+a+sun.%22+%E2%80%94+Dr.+A.P.J.+Abdul+Kalam;%22Don't+quit.+Live+the+rest+of+your+life+as+a+champion.%22+%E2%80%94+Muhammad+Ali;%22To+succeed%2C+have+single-minded+devotion+to+your+goal.%22+%E2%80%94+Dr.+Kalam" alt="Hero Quotes One-by-One Animation" />
 
-  <br/>
+  <br/><br/>
 
-  <table border="0" width="100%">
-    <tr>
-      <td align="center" style="padding: 18px 24px;">
-        <p align="center" style="font-size: 16px; line-height: 1.6;">
-          <em>"Verily, Allah loves that when any one of you does a job, he executes it with <strong>Ihsan (إحسان)</strong> — with utmost mastery, devotion, and excellence."</em><br/>
-          <strong>— Prophet Muhammad (ﷺ)</strong>
-        </p>
-        <hr width="30%" />
-        <p align="center" style="font-size: 15px; line-height: 1.6;">
-          <em>"To succeed in your mission, you must have single-minded devotion to your goal. Dream, transform into thoughts, and execute into hard work."</em><br/>
-          <strong>— Dr. A.P.J. Abdul Kalam</strong>
-        </p>
-        <hr width="30%" />
-        <p align="center" style="font-size: 15px; line-height: 1.6;">
-          <em>"Champions are made from something they have deep inside them — a desire, a dream, a vision."</em><br/>
-          <strong>— Muhammad Ali</strong>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <!-- 🎯 Interactive One-by-One Reveal Cards -->
+  <details align="left" style="background: #0f172a; padding: 12px 18px; border-radius: 8px; margin-bottom: 10px; border: 1px solid #1e293b; max-width: 800px;">
+    <summary style="cursor: pointer; font-size: 15px; color: #38bdf8;"><strong>📖 Prophet Muhammad (ﷺ) — On Ihsan & Excellence in Work</strong> <em>(Click to Reveal)</em></summary>
+    <br/>
+    <blockquote>
+      <em>"Verily, Allah loves that when any one of you does a job, he executes it with <strong>Ihsan (إحسان)</strong> — with utmost mastery, devotion, and excellence."</em>
+      <br/><br/>
+      <strong>— Prophet Muhammad (ﷺ) [Al-Bayhaqi]</strong>
+    </blockquote>
+  </details>
+
+  <details align="left" style="background: #0f172a; padding: 12px 18px; border-radius: 8px; margin-bottom: 10px; border: 1px solid #1e293b; max-width: 800px;">
+    <summary style="cursor: pointer; font-size: 15px; color: #a855f7;"><strong>🚀 Dr. A.P.J. Abdul Kalam — On Relentless Devotion & Hard Work</strong> <em>(Click to Reveal)</em></summary>
+    <br/>
+    <blockquote>
+      <em>"To succeed in your mission, you must have single-minded devotion to your goal. If you want to shine like a sun, first burn like a sun. Dream, transform into thoughts, and execute into hard work."</em>
+      <br/><br/>
+      <strong>— Dr. A.P.J. Abdul Kalam</strong>
+    </blockquote>
+  </details>
+
+  <details align="left" style="background: #0f172a; padding: 12px 18px; border-radius: 8px; margin-bottom: 10px; border: 1px solid #1e293b; max-width: 800px;">
+    <summary style="cursor: pointer; font-size: 15px; color: #f59e0b;"><strong>🥊 Muhammad Ali — On Champion Work Ethic & Discipline</strong> <em>(Click to Reveal)</em></summary>
+    <br/>
+    <blockquote>
+      <em>"Champions aren't made in gyms. Champions are made from something they have deep inside them — a desire, a dream, a vision. Don't quit. Suffer now and live the rest of your life as a champion."</em>
+      <br/><br/>
+      <strong>— Muhammad Ali</strong>
+    </blockquote>
+  </details>
 
 </div>
 
@@ -197,6 +207,6 @@ $ echo $PASSION
   <br/><br/>
 
   <!-- 🌊 Bottom Neon Wave Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,11,20&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,11,20&height=100&section=footer" width="100%" />
 
 </div>
